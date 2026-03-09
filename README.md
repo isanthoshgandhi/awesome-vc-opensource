@@ -243,16 +243,4 @@
 
 ---
 
-## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding new tools.
-
-**Quick rule:** Tools must be open-source, have a public GitHub repository, and fit exactly one of the 11 MECE categories above.
-
----
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-This list is released into the public domain under [Creative Commons Zero v1.0](LICENSE).
