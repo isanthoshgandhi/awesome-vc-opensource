@@ -1,6 +1,6 @@
 # 🚀 Awesome VC & Startup Open Source
 
-> A **MECE** (Mutually Exclusive, Collectively Exhaustive) curated list of open-source tools for venture capital, startup investment, due diligence, and fund management. Built for developers who want to build VC tools.
+> A curated list of open-source tools for venture capital, startup investment, due diligence, and fund management. Built for developers who want to build VC tools.
 
 ---
 
