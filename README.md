@@ -2,10 +2,6 @@
 
 > A **MECE** (Mutually Exclusive, Collectively Exhaustive) curated list of open-source tools for venture capital, startup investment, due diligence, and fund management. Built for developers who want to build VC tools.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Link Check](https://github.com/isanthoshgandhi/awesome-vc-opensource/actions/workflows/link-check.yml/badge.svg)](https://github.com/isanthoshgandhi/awesome-vc-opensource/actions/workflows/link-check.yml)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 ---
 
 ## Stage Legend
