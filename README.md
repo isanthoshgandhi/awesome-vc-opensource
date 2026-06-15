@@ -63,6 +63,7 @@
 | [Infisical/infisical](https://github.com/Infisical/infisical) | TypeScript | ⭐ 15K+ | 🌍 | Secure secrets management for data room access control |
 | [joelparkerhenderson/startup-assessment](https://github.com/joelparkerhenderson/startup-assessment) | Markdown | ⭐ 500+ | 🌱🌿🚀 | Startup scorecard with evaluation criteria across team, product, market |
 | [KatherineMichel/tech-and-funding-toolkit](https://github.com/KatherineMichel/tech-and-funding-toolkit) | Markdown | ⭐ 1K+ | 🌍 | VC economics references and DD frameworks |
+| [AI Workdeck](https://github.com/zeweihan/aiworkdeck) | Java/Vue | ⭐ 34 | 🌍 | Open-source AI-native workspace for due diligence and document-heavy workflows — OCR, risk flagging, evidence-chain management, WPS integration. Self-hosted with air-gapped deployment. AGPLv3 |
 
 ---
 
