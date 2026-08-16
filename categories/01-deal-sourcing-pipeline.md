@@ -79,6 +79,19 @@ NLP-powered tool to analyze startups from public data sources. Uses natural lang
 
 ---
 
+### [kindrat86/mcp-deal-flow-signal](https://github.com/kindrat86/mcp-deal-flow-signal)
+**Language:** JavaScript | **Stars:** ⭐ 5 | **Stages:** 🌍 All Stages
+
+MCP server for VC deal-flow signals from GitHub engineering activity. Per-sector startup search and per-startup engineering-velocity metrics (commit velocity, contributor growth, repo expansion) across 15 sectors.
+
+**Key features:**
+- Trending startups and per-sector search across 15 sectors
+- Per-startup engineering signals: commit velocity, contributor growth, repo expansion
+- Free tools, no API key required
+- Install via `npx @gitdealflow/mcp-signal`
+
+---
+
 ## Investor & Deal Directories
 
 ### [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors)

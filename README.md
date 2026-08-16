@@ -48,6 +48,7 @@
 | [chenhe95/VCInvestmentTool](https://github.com/chenhe95/VCInvestmentTool) | Python | ⭐ 200+ | 🌿🚀 | NLP-based startup analysis and investment scoring tool |
 | [octolens/awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) | Markdown | ⭐ 1K+ | 🌍 | Curated list of VCs investing in commercial open-source startups |
 | [swyxio/devtools-angels](https://github.com/swyxio/devtools-angels) | Markdown | ⭐ 500+ | 🌱🌿 | Directory of active angel investors in developer tools |
+| [kindrat86/mcp-deal-flow-signal](https://github.com/kindrat86/mcp-deal-flow-signal) | JavaScript | ⭐ 5 | 🌍 | MCP server for VC deal-flow signals: per-sector startup search and engineering-velocity metrics (commit velocity, contributor growth) across 15 sectors |
 
 ---
 
